@@ -9,10 +9,12 @@ set -x
 gpgsync_fingerprints_file="fingerprints.txt"
 gpgsync_signature_file="${gpgsync_fingerprints_file}.sig"
 
-# Full fingerprints for @conorsch's pubkeys.
-signing_pubkey="0B095DF428491E147B615CD3F08893B959CAB065"
+# Full fingerprint for FPF Authority Signing Key.
+signing_pubkey="F81962A54902300F72ECB83AA1FC1F6AD2D09049"
 
 # Sanity-checking: let's make sure we have the private key locally.
+# Private keys stored on hardware tokens must have a stub in the
+# local keyring, which this check will catch.
 gpg -qK "${signing_pubkey}" > /dev/null
 
 # Write detached signature file.

@@ -15,6 +15,7 @@ D04A 7267 C87B 9F07 E07D  4DDE 2E54 D985 1E76 268A # Olivia Marin <olivia@freedo
 
 # Signing Keys
 2224 5C81 E3BA EB41 38B3  6061 310F 5612 00F4 AD77 # SecureDrop Release Signing Key
+F819 62A5 4902 300F 72EC  B83A A1FC 1F6A D2D0 9049 # FPF Authority Signing Key
 
 # Staff Key
 734F 6E70 7434 ECA6 C007  E1AE 82BD 6C96 16DA BB79 # Staff key <info@freedom.press>
