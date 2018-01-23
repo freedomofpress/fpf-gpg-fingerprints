@@ -1,6 +1,6 @@
 # Employees
 1C5E 2955 0F40 7E07 D5FB  15AE DB49 DF11 D5B3 98C3 # Camille Fassett <camille@freedom.press>
-BA6D 6CCD 3104 8CF8 D687  30EB 5E77 E0FE F9A1 A94D # Conor Schaefer <conor@freedom.press>
+0B09 5DF4 2849 1E14 7B61  5CD3 F088 93B9 59CA B065 # Conor Schaefer <conor@freedom.press>
 81A2 A1A5 D012 799D 2538  9D42 2F61 03DB FED6 6DF8 # David Huerta <david@freedom.press>
 1C83 CB5D 76CC CF27 85F2  945A 57F8 2911 80BC E88B # Emmanuel Morales <emmanuel@freedom.press>
 4C43 A308 CEFA E01B D916  D0F5 76BE A267 69AC D5C5 # Freddy Martinez <freddy@freedom.press>
@@ -15,6 +15,7 @@ D04A 7267 C87B 9F07 E07D  4DDE 2E54 D985 1E76 268A # Olivia Marin <olivia@freedo
 
 # Signing Keys
 2224 5C81 E3BA EB41 38B3  6061 310F 5612 00F4 AD77 # SecureDrop Release Signing Key
+F819 62A5 4902 300F 72EC  B83A A1FC 1F6A D2D0 9049 # FPF Authority Signing Key
 
 # Staff Key
 734F 6E70 7434 ECA6 C007  E1AE 82BD 6C96 16DA BB79 # Staff key <info@freedom.press>
