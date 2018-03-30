@@ -13,6 +13,7 @@ D04A 7267 C87B 9F07 E07D  4DDE 2E54 D985 1E76 268A # Olivia Marin <olivia@freedo
 5BCD 2375 C11F 50E7 3D66  03B1 ECCA E7E9 FEAB C294 # Peter Sterne <peter@freedom.press>
 923E 04E6 D71C B986 76B0  5D7D 1582 179D CDE9 B834 # Trevor Timm <trevor@freedom.press>
 E1F3 4FEA C85D 9788 C675  55F1 348F 028C 7FCB 2899 # Erik Moeller <erik@freedom.press>
+DBA5 3322 225D 93E9 5760  AD2F 43E9 1916 5763 5D6F # Harris Lapiroff <harris@freedom.press>
 
 # Signing Keys
 2224 5C81 E3BA EB41 38B3  6061 310F 5612 00F4 AD77 # SecureDrop Release Signing Key
