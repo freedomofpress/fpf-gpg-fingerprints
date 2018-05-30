@@ -6,7 +6,7 @@
 4C43 A308 CEFA E01B D916  D0F5 76BE A267 69AC D5C5 # Freddy Martinez <freddy@freedom.press>
 F48E CC56 4980 83F1 80DF  F943 DA05 B7C5 2ABA F334 # Jennifer Helsby <jen@freedom.press>
 4422 F773 B498 8C77 F99D  287E 655C 2E48 33B8 2A02 # Harlo Holmes <harlo@freedom.press>
-A85F F376 759C 994A 8A11  68D8 D821 9C8C 43F6 C5E1 # Kushal Das <kushal@freedompress>
+A85F F376 759C 994A 8A11  68D8 D821 9C8C 43F6 C5E1 # Kushal Das <kushal@freedom.press>
 1722 F228 6CD9 0A55 24E1  9B32 699C 99DC 7131 FD81 # Michael Sheinberg <mike@freedom.press>
 AF77 5782 949D 263D AABB  3387 AAFB 3575 FAC8 2745 # Mickael E. <mickael@freedom.press>
 D04A 7267 C87B 9F07 E07D  4DDE 2E54 D985 1E76 268A # Olivia Martin <olivia@freedom.press>
