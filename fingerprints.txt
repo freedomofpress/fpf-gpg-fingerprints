@@ -3,7 +3,7 @@
 0B09 5DF4 2849 1E14 7B61  5CD3 F088 93B9 59CA B065 # Conor Schaefer <conor@freedom.press>
 81A2 A1A5 D012 799D 2538  9D42 2F61 03DB FED6 6DF8 # David Huerta <david@freedom.press>
 1C83 CB5D 76CC CF27 85F2  945A 57F8 2911 80BC E88B # Emmanuel Morales <emmanuel@freedom.press>
-4C43 A308 CEFA E01B D916  D0F5 76BE A267 69AC D5C5 # Freddy Martinez <freddy@freedom.press>
+B05B E5FB 0902 C39E EE70  CF24 E50D 39E8 8E40 505C # Freddy Martinez <freddy@freedom.press>
 F48E CC56 4980 83F1 80DF  F943 DA05 B7C5 2ABA F334 # Jennifer Helsby <jen@freedom.press>
 4422 F773 B498 8C77 F99D  287E 655C 2E48 33B8 2A02 # Harlo Holmes <harlo@freedom.press>
 A05A CE4F 7E0B CA9B AD8D  42F4 ACFE 4353 1730 15EA # Kevin O'Gorman <kog@freedom.press>
