@@ -1,4 +1,5 @@
 # Employees
+789B 3522 29D9 BD2F B354  7759 9232 DAD3 105B 8D58 # Allie Crevier <allie@freedom.press> <creviera@freedom.press>
 1C5E 2955 0F40 7E07 D5FB  15AE DB49 DF11 D5B3 98C3 # Camille Fassett <camille@freedom.press>
 0B09 5DF4 2849 1E14 7B61  5CD3 F088 93B9 59CA B065 # Conor Schaefer <conor@freedom.press>
 81A2 A1A5 D012 799D 2538  9D42 2F61 03DB FED6 6DF8 # David Huerta <david@freedom.press>
