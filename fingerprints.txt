@@ -21,8 +21,6 @@ DBA5 3322 225D 93E9 5760  AD2F 43E9 1916 5763 5D6F # Harris Lapiroff <harris@fre
 4FC6 0810 0C34 0099 9C0C  9F4A EB16 1F32 5A31 C8EA # Keturah Dola-Borg <keturah@freedom.press>
 66F7 D621 6525 A855 4D22  C03F 2734 5A10 97D7 676E # Ryan Rice <ryanrice@freedom.press>
 FE87 BBE1 AB79 1EB9 CE28  0FBA 0946 A9C9 C6B9 AA4A # Kirstin McCudden <kirstin@freedom.press>
-66F7 D621 6525 A855 4D22  C03F 2734 5A10 97D7 676E # Ryan Rice <ryan@freedom.press>
-
 
 # Signing Keys
 2224 5C81 E3BA EB41 38B3  6061 310F 5612 00F4 AD77 # SecureDrop Release Signing Key
