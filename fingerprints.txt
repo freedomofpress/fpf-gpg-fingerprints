@@ -6,6 +6,7 @@
 1C83 CB5D 76CC CF27 85F2  945A 57F8 2911 80BC E88B # Emmanuel Morales <emmanuel@freedom.press>
 B05B E5FB 0902 C39E EE70  CF24 E50D 39E8 8E40 505C # Freddy Martinez <freddy@freedom.press>
 F48E CC56 4980 83F1 80DF  F943 DA05 B7C5 2ABA F334 # Jennifer Helsby <jen@freedom.press>
+41AB BDD3 AB1C 29DD 7388  6795 933C 5EB7 0022 4BA7 # John Hensley <john@freedom.press>
 4422 F773 B498 8C77 F99D  287E 655C 2E48 33B8 2A02 # Harlo Holmes <harlo@freedom.press>
 A05A CE4F 7E0B CA9B AD8D  42F4 ACFE 4353 1730 15EA # Kevin O'Gorman <kog@freedom.press>
 A85F F376 759C 994A 8A11  68D8 D821 9C8C 43F6 C5E1 # Kushal Das <kushal@freedom.press>
