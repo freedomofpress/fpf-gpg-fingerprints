@@ -3,12 +3,12 @@
 1C5E 2955 0F40 7E07 D5FB  15AE DB49 DF11 D5B3 98C3 # Camille Fassett <camille@freedom.press>
 0B09 5DF4 2849 1E14 7B61  5CD3 F088 93B9 59CA B065 # Conor Schaefer <conor@freedom.press>
 81A2 A1A5 D012 799D 2538  9D42 2F61 03DB FED6 6DF8 # David Huerta <david@freedom.press>
-1C83 CB5D 76CC CF27 85F2  945A 57F8 2911 80BC E88B # Emmanuel Morales <emmanuel@freedom.press>
 B05B E5FB 0902 C39E EE70  CF24 E50D 39E8 8E40 505C # Freddy Martinez <freddy@freedom.press>
 F48E CC56 4980 83F1 80DF  F943 DA05 B7C5 2ABA F334 # Jennifer Helsby <jen@freedom.press>
 41AB BDD3 AB1C 29DD 7388  6795 933C 5EB7 0022 4BA7 # John Hensley <john@freedom.press>
 4422 F773 B498 8C77 F99D  287E 655C 2E48 33B8 2A02 # Harlo Holmes <harlo@freedom.press>
 A05A CE4F 7E0B CA9B AD8D  42F4 ACFE 4353 1730 15EA # Kevin O'Gorman <kog@freedom.press>
+4FC6 0810 0C34 0099 9C0C  9F4A EB16 1F32 5A31 C8EA # Keturah Dola-Borg <keturah@freedom.press>
 A85F F376 759C 994A 8A11  68D8 D821 9C8C 43F6 C5E1 # Kushal Das <kushal@freedom.press>
 1722 F228 6CD9 0A55 24E1  9B32 699C 99DC 7131 FD81 # Michael Sheinberg <mike@freedom.press>
 AF77 5782 949D 263D AABB  3387 AAFB 3575 FAC8 2745 # Mickael E. <mickael@freedom.press>
@@ -19,7 +19,6 @@ E1F3 4FEA C85D 9788 C675  55F1 348F 028C 7FCB 2899 # Erik Moeller <erik@freedom.
 DBA5 3322 225D 93E9 5760  AD2F 43E9 1916 5763 5D6F # Harris Lapiroff <harris@freedom.press>
 298B 8ADB 2129 30C6 1750  47DE 930A 65E2 C176 2C42 # Parker Higgins <parker@freedom.press>
 3B7B 8B72 7817 0CBE BB02  01DB ECEE 4D61 1136 687E # Louise Balsmeyer <louise@freedom.press>
-4FC6 0810 0C34 0099 9C0C  9F4A EB16 1F32 5A31 C8EA # Keturah Dola-Borg <keturah@freedom.press>
 66F7 D621 6525 A855 4D22  C03F 2734 5A10 97D7 676E # Ryan Rice <ryanrice@freedom.press>
 FE87 BBE1 AB79 1EB9 CE28  0FBA 0946 A9C9 C6B9 AA4A # Kirstin McCudden <kirstin@freedom.press>
 
