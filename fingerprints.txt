@@ -1,9 +1,7 @@
 # Employees
 789B 3522 29D9 BD2F B354  7759 9232 DAD3 105B 8D58 # Allie Crevier <allie@freedom.press> <creviera@freedom.press>
-1C5E 2955 0F40 7E07 D5FB  15AE DB49 DF11 D5B3 98C3 # Camille Fassett <camille@freedom.press>
 0B09 5DF4 2849 1E14 7B61  5CD3 F088 93B9 59CA B065 # Conor Schaefer <conor@freedom.press>
 81A2 A1A5 D012 799D 2538  9D42 2F61 03DB FED6 6DF8 # David Huerta <david@freedom.press>
-B05B E5FB 0902 C39E EE70  CF24 E50D 39E8 8E40 505C # Freddy Martinez <freddy@freedom.press>
 F48E CC56 4980 83F1 80DF  F943 DA05 B7C5 2ABA F334 # Jennifer Helsby <jen@freedom.press>
 41AB BDD3 AB1C 29DD 7388  6795 933C 5EB7 0022 4BA7 # John Hensley <john@freedom.press>
 4422 F773 B498 8C77 F99D  287E 655C 2E48 33B8 2A02 # Harlo Holmes <harlo@freedom.press>
@@ -21,6 +19,7 @@ DBA5 3322 225D 93E9 5760  AD2F 43E9 1916 5763 5D6F # Harris Lapiroff <harris@fre
 3B7B 8B72 7817 0CBE BB02  01DB ECEE 4D61 1136 687E # Louise Balsmeyer <louise@freedom.press>
 66F7 D621 6525 A855 4D22  C03F 2734 5A10 97D7 676E # Ryan Rice <ryanrice@freedom.press>
 FE87 BBE1 AB79 1EB9 CE28  0FBA 0946 A9C9 C6B9 AA4A # Kirstin McCudden <kirstin@freedom.press>
+66A5 E0C7 FD48 CE4B 7DA9  6F6A 795A 6A62 CAF4 9B17 # Stephanie Sugars <stephanie@freedom.press>
 
 # Signing Keys
 2224 5C81 E3BA EB41 38B3  6061 310F 5612 00F4 AD77 # SecureDrop Release Signing Key
