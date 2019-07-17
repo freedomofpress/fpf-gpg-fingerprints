@@ -11,7 +11,7 @@ A85F F376 759C 994A 8A11  68D8 D821 9C8C 43F6 C5E1 # Kushal Das <kushal@freedom.
 1722 F228 6CD9 0A55 24E1  9B32 699C 99DC 7131 FD81 # Michael Sheinberg <mike@freedom.press>
 AF77 5782 949D 263D AABB  3387 AAFB 3575 FAC8 2745 # Mickael E. <mickael@freedom.press>
 9375 170D 998A 6FC4 D077  3AE7 C154 0715 5781 E178 # Olivia Martin <olivia@freedom.press>
-5BCD 2375 C11F 50E7 3D66  03B1 ECCA E7E9 FEAB C294 # Peter Sterne <peter@freedom.press>
+91B3 D67D 8758 4495 4625  6E7E FC72 AA83 8C44 4B47 # Ro S. <ro@freedom.press>
 923E 04E6 D71C B986 76B0  5D7D 1582 179D CDE9 B834 # Trevor Timm <trevor@freedom.press>
 E1F3 4FEA C85D 9788 C675  55F1 348F 028C 7FCB 2899 # Erik Moeller <erik@freedom.press>
 DBA5 3322 225D 93E9 5760  AD2F 43E9 1916 5763 5D6F # Harris Lapiroff <harris@freedom.press>
