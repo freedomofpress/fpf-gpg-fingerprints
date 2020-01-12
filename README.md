@@ -8,6 +8,8 @@ pub   rsa4096 2018-01-21 [SC] [expires: 2021-01-20]
 uid           [ unknown] FPF Authority (Freedom of the Press Foundation Authority Signing Key)
 ```
 
+The full public key for the FPF Authority key is (included in the repository)[https://raw.githubusercontent.com/freedomofpress/fpf-gpg-fingerprints/master/fpf-authority.pub.asc].
+
 ## Install GPG Sync
 If you're using macOS, fetch the [latest GPG Sync release](https://github.com/firstlookmedia/gpgsync/releases).
 
