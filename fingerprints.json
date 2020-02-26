@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "signature_uri": "https://raw.githubusercontent.com/freedomofpress/fpf-gpg-fingerprints/master/fingerprints.json.asc",
+    "comment": "The FPF GPG keylist"
+  },
+  "keys": [
+    {
+      "name": "Allie Crevier",
+      "email": "allie@freedom.press",
+      "fingerprint": "789B352229D9BD2FB35477599232DAD3105B8D58"
+    },
+    {
+      "name": "Conor Schaefer",
+      "email": "conor@freedom.press",
+      "fingerprint": "0B095DF428491E147B615CD3F08893B959CAB065"
+    },
+    {
+      "name": "David Huerta",
+      "email": "david@freedom.press",
+      "fingerprint": "81A2A1A5D012799D25389D422F6103DBFED66DF8"
+    },
+    {
+      "name": "Jennifer Helsby",
+      "email": "jen@freedom.press",
+      "fingerprint": "F48ECC56498083F180DFF943DA05B7C52ABAF334"
+    },
+    {
+      "name": "John Hensley",
+      "email": "john@freedom.press",
+      "fingerprint": "41ABBDD3AB1C29DD73886795933C5EB700224BA7"
+    },
+    {
+      "name": "Harlo Holmes",
+      "email": "harlo@freedom.press",
+      "fingerprint": "4422F773B4988C77F99D287E655C2E4833B82A02"
+    },
+    {
+      "name": "Kevin O'Gorman",
+      "email": "kog@freedom.press",
+      "fingerprint": "A05ACE4F7E0BCA9BAD8D42F4ACFE4353173015EA"
+    },
+    {
+      "name": "Keturah Dola-Borg",
+      "email": "keturah@freedom.press",
+      "fingerprint": "4FC608100C3400999C0C9F4AEB161F325A31C8EA"
+    },
+    {
+      "name": "Kushal Das",
+      "email": "kushal@freedom.press",
+      "fingerprint": "A85FF376759C994A8A1168D8D8219C8C43F6C5E1"
+    },
+    {
+      "name": "Martin Shelton",
+      "email": "martin@freedom.press",
+      "fingerprint": "14EE6871B0AA2D1B5DC4B5300FDE9CD7C21D0441"
+    },
+    {
+      "name": "Mickael E.",
+      "email": "mickael@freedom.press",
+      "fingerprint": "AF775782949D263DAABB3387AAFB3575FAC82745"
+    },
+    {
+      "name": "Olivia Martin",
+      "email": "olivia@freedom.press",
+      "fingerprint": "9375170D998A6FC4D0773AE7C15407155781E178"
+    },
+    {
+      "name": "Ro S.",
+      "email": "ro@freedom.press",
+      "fingerprint": "91B3D67D8758449546256E7EFC72AA838C444B47"
+    },
+    {
+      "name": "Trevor Timm",
+      "email": "trevor@freedom.press",
+      "fingerprint": "923E04E6D71CB98676B05D7D1582179DCDE9B834"
+    },
+    {
+      "name": "Erik Moeller",
+      "email": "erik@freedom.press",
+      "fingerprint": "E1F34FEAC85D9788C67555F1348F028C7FCB2899"
+    },
+    {
+      "name": "Harris Lapiroff",
+      "email": "harris@freedom.press",
+      "fingerprint": "DBA53322225D93E95760AD2F43E9191657635D6F"
+    },
+    {
+      "name": "Parker Higgins",
+      "email": "parker@freedom.press",
+      "fingerprint": "298B8ADB212930C6175047DE930A65E2C1762C42"
+    },
+    {
+      "name": "Louise Balsmeyer",
+      "email": "louise@freedom.press",
+      "fingerprint": "3B7B8B7278170CBEBB0201DBECEE4D611136687E"
+    },
+    {
+      "name": "Ryan Rice",
+      "email": "ryanrice@freedom.press",
+      "fingerprint": "66F7D6216525A8554D22C03F27345A1097D7676E"
+    },
+    {
+      "name": "Kirstin McCudden",
+      "email": "kirstin@freedom.press",
+      "fingerprint": "FE87BBE1AB791EB9CE280FBA0946A9C9C6B9AA4A"
+    },
+    {
+      "name": "Stephanie Sugars",
+      "email": "stephanie@freedom.press",
+      "fingerprint": "66A5E0C7FD48CE4B7DA96F6A795A6A62CAF49B17"
+    },
+    {
+      "name": "SecureDrop Release Signing Key",
+      "email": "securedrop-release-key@freedom.press",
+      "fingerprint": "22245C81E3BAEB4138B36061310F561200F4AD77"
+    },
+    {
+      "name": "FPF Authority Signing Key",
+      "fingerprint": "F81962A54902300F72ECB83AA1FC1F6AD2D09049",
+      "comment": "Used for signing FPF information for authenticity, e.g. keylist"
+    },
+    {
+      "name": "Staff key",
+      "email": "info@freedom.press",
+      "fingerprint": "734F6E707434ECA6C007E1AE82BD6C9616DABB79"
+    }
+  ]
+}
