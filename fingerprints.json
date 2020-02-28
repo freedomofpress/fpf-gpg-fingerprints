@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "signature_uri": "https://raw.githubusercontent.com/freedomofpress/fpf-gpg-fingerprints/json-keyfile-format/fingerprints.json.asc",
+    "signature_uri": "https://raw.githubusercontent.com/freedomofpress/fpf-gpg-fingerprints/master/fingerprints.json.asc",
     "comment": "The FPF GPG keylist"
   },
   "keys": [
