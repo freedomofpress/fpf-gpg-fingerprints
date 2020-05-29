@@ -20,4 +20,4 @@ If you're a Freedom of the Press Foundation employee and using Linux, `make work
 To configure our [GPG Sync](https://github.com/firstlookmedia/gpgsync) endpoint, use these values:
 
 * GPG Fingerprint: `F81962A54902300F72ECB83AA1FC1F6AD2D09049`
-* Fingerprints URL: `https://raw.githubusercontent.com/freedomofpress/fpf-gpg-fingerprints/master/fingerprints.txt`
+* Fingerprints URL: `https://raw.githubusercontent.com/freedomofpress/fpf-gpg-fingerprints/master/fingerprints.json`
